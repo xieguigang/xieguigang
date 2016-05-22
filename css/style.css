@@ -151,10 +151,10 @@ nav .contacts a>span{
 
 #content>ul>li>.inner{
 	text-align:center;
-	padding:190px 130px 130px 130px;
+	padding:190px 120px 130px 120px;
 	position:absolute;
 	left:-333px;
-	top:-333px;
+	top:-430px;
 	width:406px;
 	height:347px;
 }
@@ -235,9 +235,11 @@ h2{
 	background:url(../images/soc-ico-sp.png) -86px 100%;
 }
 
+/* 
 #content p{
 	text-transform:uppercase;
-}
+} 
+*/
 
 #contacts .google_map{
 	width:404px;
@@ -360,7 +362,7 @@ footer .privacy{
 a.und,.und a{text-decoration:none;}
 a.und:hover,.und a:hover{text-decoration:underline;}
 a.nocolor, .nocolor a{color:inherit;}
-.upc{text-transform:uppercase;}
+*.upc{text-transform:bold;font-weight:bold;}*
 .bold{font-weight:bold;}
 .wrap{overflow:hidden;}
 .nopa{padding:0;}
