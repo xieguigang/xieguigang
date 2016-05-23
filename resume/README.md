@@ -34,7 +34,7 @@ GCModeller主要提供了一系列的免费开源工具用于进行原核生物�
 
 GCModeller项目目前正在申请美国微软公司Microsoft .NET Foundation开源基金会资助项目，GCModeller项目目前是继微软的西雅图雷德蒙德研究院MBF项目之后的.NET平台上面的第二大生物信息学分析项目。
 >这里列出了基于GCModeller的数据分析服务的SCI论文列表：
->1. *Complete sequence and detailed analysis of the first indigenous plasmid from Xanthomonas oryzae pv. Oryzicola* (**doi:** [10.1186/s12866-015-0562-x](http://bmcmicrobiol.biomedcentral.com/articles/10.1186/s12866-015-0562-x))
+>1. *__Niu XN etc__. Complete sequence and detailed analysis of the first indigenous plasmid from Xanthomonas oryzae pv. Oryzicola* (**doi:** [10.1186/s12866-015-0562-x](http://bmcmicrobiol.biomedcentral.com/articles/10.1186/s12866-015-0562-x))
 
 #### 2. GCModeller分布式计算服务器集群环境 (VB.NET)
 > **开发时间**	2016.03 - 至今<br />
