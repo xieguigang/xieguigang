@@ -5,3 +5,4 @@
 /.old
 *.sqlite
 .suo
+*.sqlite-journal
