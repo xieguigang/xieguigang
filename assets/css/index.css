@@ -443,3 +443,8 @@
     .documentation .content .token.attr-value {
         color: #1264A4
     }
+
+
+.custom-control-label {
+	font-size: 1.25em;	
+}
