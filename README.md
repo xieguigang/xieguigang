@@ -1,7 +1,7 @@
-### Hi there 👋 [![](https://visitor-badge.glitch.me/badge?page_id=xieguigang.xieguigang)]()
+### Hi there 👋 
 
 <!--
-**xieguigang/xieguigang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**xieguigang/xieguigang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Here are some ideas to get you started:
 
@@ -13,11 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
-<!-- ![github](https://avatars3.githubusercontent.com/u/9410171?s=460&u=5b76d49b29b192abd2c752ec9299f15f0e32ded6&v=4) -->
-
-<!-- GitHub Readme stats -->
-<!-- ![xieguigang's github stats](https://github-readme-stats.vercel.app/api?username=xieguigang&show_icons=true&&hide_border=true) -->
-
-![xieguigang's github stats](https://github-readme-stats.xieguigang.vercel.app/api?username=xieguigang&show_icons=true&&hide_border=true)
