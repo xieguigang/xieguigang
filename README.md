@@ -9,5 +9,5 @@
 
 Recent video work on BILIBILI: 
 
-![[](https://www.bilibili.com/video/BV1rX4y157XP)](.github/profile_videocard.png)
+[![](.github/profile_videocard.png)](https://www.bilibili.com/video/BV1rX4y157XP)
 > https://www.bilibili.com/video/BV1rX4y157XP
