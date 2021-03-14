@@ -11,5 +11,3 @@ Recent video work on BILIBILI:
 
 [![](.github/profile_videocard.png)](https://www.bilibili.com/video/BV1rX4y157XP)
 > https://www.bilibili.com/video/BV1rX4y157XP
-
-<iframe src="//player.bilibili.com/player.html?aid=714237993&bvid=BV1rX4y157XP&cid=298936606&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
