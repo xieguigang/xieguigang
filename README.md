@@ -13,3 +13,8 @@ Recent video work on BILIBILI:
 
 [![](.github/profile_videocard.png)](https://www.bilibili.com/video/BV1rX4y157XP)
 > https://www.bilibili.com/video/BV1rX4y157XP
+
+<center>
+<img width="100%" align="left" src="https://github-readme-stats.vercel.app/api?username=xieguigang&show_icons=true&hide_border=true&count_private=true&layout=compact" />
+<img width="100%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xieguigang&hide=html&layout=compact" />
+</center>
