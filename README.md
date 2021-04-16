@@ -30,3 +30,5 @@ Recent video work on BILIBILI:
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xieguigang&show_icons=true&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&bg_color=191919">
 </p>    
 </center>
+
+![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xieguigang)
