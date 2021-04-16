@@ -26,5 +26,7 @@ Recent video work on BILIBILI:
 
 <center>
 <img width="550px" align="left" src="https://github-readme-stats.vercel.app/api?username=xieguigang&show_icons=true&hide_border=true&count_private=true&layout=compact" />
-<img width="550px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xieguigang&hide=html&layout=compact" />
+<p align='center'>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xieguigang&show_icons=true&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&bg_color=191919">
+</p>
 </center>
