@@ -1,4 +1,4 @@
-### Hi there 👋 
+### Hi there, 👋 You are my ![](https://profile-counter.glitch.me/xieguigang/count.svg)th visitor!
 
 ```vbnet
 ' Working on Engineered bacteria CAD design on its genome from scratch. 
@@ -15,8 +15,6 @@ End Function
 - 🔭 I’m currently working on genomics CAD design of superbug
 - 🌱 I’m currently learning Machine Learning
 - 📫 How to reach me: [xieguigang.me](http://xieguigang.me/) and [linkedin](https://www.linkedin.com/in/xie-guigang-8573b1109/)
-
-### You are my ![](https://profile-counter.glitch.me/xieguigang/count.svg) visitors
 
 Recent video work on BILIBILI: 
 
