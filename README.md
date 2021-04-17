@@ -28,4 +28,4 @@ Recent video work on BILIBILI:
 </p>    
 </center>
 
-![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xieguigang)
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xieguigang)](https://wakatime.com/@xieguigang)
