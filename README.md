@@ -30,5 +30,5 @@ Recent video work on BILIBILI:
 
 <figure>
     <a href="https://wakatime.com/@xieguigang">
-        <img width="500px;" src="https://wakatime.com/share/@xieguigang/5e0d3440-e829-4446-8425-43c457be44ce.svg" /></a>
+        <img width="400px;" src="https://wakatime.com/share/@xieguigang/5e0d3440-e829-4446-8425-43c457be44ce.svg" /></a>
     </figure>
