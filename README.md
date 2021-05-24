@@ -21,6 +21,9 @@ Recent video work on BILIBILI:
 [![](.github/profile_videocard.png)](https://www.bilibili.com/video/BV1rX4y157XP)
 > https://www.bilibili.com/video/BV1rX4y157XP
 
+##### **Important NOTES about clone my repository**
+> [https://github.com/xieguigang/xieguigang/blob/master/repo.md](https://github.com/xieguigang/xieguigang/blob/master/repo.md)
+
 <center>
 <img width="450px" align="left" src="https://github-readme-stats.vercel.app/api?username=xieguigang&show_icons=true&hide_border=true&count_private=true&layout=compact" />
 <p style='float:right;'>
