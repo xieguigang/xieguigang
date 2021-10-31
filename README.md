@@ -31,7 +31,11 @@ Recent video work on BILIBILI:
 </p>    
 </center>
 
+<!--
 <figure>
     <a href="https://wakatime.com/@xieguigang">
         <img width="400px;" src="https://wakatime.com/share/@xieguigang/5e0d3440-e829-4446-8425-43c457be44ce.svg" /></a>
     </figure>
+-->
+
+[![xieguigang's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xieguigang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
