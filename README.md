@@ -39,3 +39,9 @@ Recent video work on BILIBILI:
 -->
 
 [![xieguigang's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xieguigang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### 📈 Stats
+<div align="center">
+   <img src="https://github-profile-trophy.vercel.app/?username=xieguigang&theme=flat&no-frame=true&margin-w=30" />
+</div>
+
