@@ -24,6 +24,11 @@ Recent video work on BILIBILI:
 ##### **Important NOTES about clone my repository**
 > [https://github.com/xieguigang/xieguigang/blob/master/repo.md](https://github.com/xieguigang/xieguigang/blob/master/repo.md)
 
+### 📈 Stats
+<div align="center">
+   <img src="https://github-profile-trophy.vercel.app/?username=xieguigang&theme=flat&no-frame=true&margin-w=30" />
+</div>
+
 <center>
 <img width="450px" align="left" src="https://github-readme-stats.vercel.app/api?username=xieguigang&show_icons=true&hide_border=true&count_private=true&layout=compact" />
 <p style='float:right;'>
@@ -39,9 +44,3 @@ Recent video work on BILIBILI:
 -->
 
 [![xieguigang's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xieguigang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-### 📈 Stats
-<div align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=xieguigang&theme=flat&no-frame=true&margin-w=30" />
-</div>
-
