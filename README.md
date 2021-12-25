@@ -29,6 +29,12 @@ Recent video work on BILIBILI:
    <img src="https://github-profile-trophy.vercel.app/?username=xieguigang&theme=flat&no-frame=true&margin-w=30" />
 </div>
 
+<p>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+      <img title="GitHub README Streak" src="http://github-readme-streak-stats.herokuapp.com?user=xieguigang&background=A0D8EF&border=ABCED8&stroke=FFF1CF&ring=D6E9CA&fire=F5B1AA&currStreakNum=595857&sideNums=7D7D7D&currStreakLabel=CE5242&sideLabels=E9546B&dates=5A79BA" alt="GitHub README Streak" />
+  </a>
+</p>
+
 <center>
 <img width="450px" align="left" src="https://github-readme-stats.vercel.app/api?username=xieguigang&show_icons=true&hide_border=true&count_private=true&layout=compact" />
 <p style='float:right;'>
