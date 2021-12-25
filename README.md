@@ -31,7 +31,7 @@ Recent video work on BILIBILI:
 
 <p>
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <img title="GitHub README Streak" src="http://github-readme-streak-stats.herokuapp.com?user=xieguigang&background=A0D8EF&border=ABCED8&stroke=FFF1CF&ring=D6E9CA&fire=F5B1AA&currStreakNum=595857&sideNums=7D7D7D&currStreakLabel=CE5242&sideLabels=E9546B&dates=5A79BA" alt="GitHub README Streak" />
+      <img title="GitHub README Streak" src="http://github-readme-streak-stats.herokuapp.com?user=xieguigang&background=white&border=lightgray&stroke=lightgray&ring=D6E9CA&fire=F5B1AA&currStreakNum=black&sideNums=black&currStreakLabel=black&sideLabels=black&dates=black" alt="GitHub README Streak" />
   </a>
 </p>
 
