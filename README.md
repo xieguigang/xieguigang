@@ -29,6 +29,9 @@ Recent video work on BILIBILI:
    <img src="https://github-profile-trophy.vercel.app/?username=xieguigang&theme=flat&no-frame=true&margin-w=30" />
 </div>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <p>
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
       <img title="GitHub README Streak" src="http://github-readme-streak-stats.herokuapp.com?user=xieguigang&background=white&border=lightgray&stroke=lightgray&ring=D6E9CA&fire=F5B1AA&currStreakNum=black&sideNums=black&currStreakLabel=black&sideLabels=black&dates=black" alt="GitHub README Streak" />
