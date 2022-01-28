@@ -53,3 +53,11 @@ Recent video work on BILIBILI:
 -->
 
 [![xieguigang's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xieguigang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- https://github.com/vn7n24fzkq/github-profile-summary-cards -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xieguigang" />
+<p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xieguigang" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xieguigang" />
+</p>
+
