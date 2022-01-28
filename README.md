@@ -32,16 +32,13 @@ Recent video work on BILIBILI:
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-<p>
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <img title="GitHub README Streak" src="http://github-readme-streak-stats.herokuapp.com?user=xieguigang&background=white&border=lightgray&stroke=lightgray&ring=D6E9CA&fire=F5B1AA&currStreakNum=black&sideNums=black&currStreakLabel=black&sideLabels=black&dates=black" alt="GitHub README Streak" />
-  </a>
-</p>
+<!-- https://github.com/vn7n24fzkq/github-profile-summary-cards -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xieguigang&theme=vue" />
 
 <center>
 <img width="450px" align="left" src="https://github-readme-stats.vercel.app/api?username=xieguigang&show_icons=true&hide_border=true&count_private=true&layout=compact" />
 <p style='float:right;'>
-    <img width="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xieguigang&show_icons=true&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&bg_color=191919">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xieguigang&theme=vue" />
 </p>    
 </center>
 
@@ -54,10 +51,8 @@ Recent video work on BILIBILI:
 
 [![xieguigang's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xieguigang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- https://github.com/vn7n24fzkq/github-profile-summary-cards -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xieguigang" />
 <p>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xieguigang" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xieguigang" />
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+      <img title="GitHub README Streak" src="http://github-readme-streak-stats.herokuapp.com?user=xieguigang&background=white&border=lightgray&stroke=lightgray&ring=D6E9CA&fire=F5B1AA&currStreakNum=black&sideNums=black&currStreakLabel=black&sideLabels=black&dates=black" alt="GitHub README Streak" />
+  </a>
 </p>
-
