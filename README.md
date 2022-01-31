@@ -16,6 +16,8 @@ End Function
 - 🌱 I’m currently learning Machine Learning
 - 📫 How to reach me: [xieguigang.me](http://xieguigang.me/), [stack.xieguigang.me](https://stack.xieguigang.me/) and [linkedin](https://www.linkedin.com/in/xie-guigang-8573b1109/)
 
+![](.github/zen_fxl1950.png)
+
 Recent video work on BILIBILI: 
 
 [![](.github/profile_videocard.png)](https://www.bilibili.com/video/BV1rX4y157XP)
