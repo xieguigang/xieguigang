@@ -14,9 +14,10 @@ End Function
 
 - 🔭 I’m currently working on genomics CAD design of superbug
 - 🌱 I’m currently learning Machine Learning
+- ⌛  I’m practicing Zen
 - 📫 How to reach me: [xieguigang.me](http://xieguigang.me/), [stack.xieguigang.me](https://stack.xieguigang.me/) and [linkedin](https://www.linkedin.com/in/xie-guigang-8573b1109/)
 
-![](.github/zen_fxl1950.png)
+[![](.github/zen_fxl1950.png)](http://www.fxl1950.com/shufa/details-250.html)
 
 Recent video work on BILIBILI: 
 
