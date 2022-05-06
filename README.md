@@ -21,8 +21,8 @@ End Function
 
 Recent video work on BILIBILI: 
 
-[![](.github/profile_videocard.png)](https://www.bilibili.com/video/BV1rX4y157XP)
-> https://www.bilibili.com/video/BV1rX4y157XP
+[![](.github/profile_videocard.png)](https://www.bilibili.com/video/BV1LB4y127rP?spm_id_from=333.999.0.0)
+> https://www.bilibili.com/video/BV1LB4y127rP?spm_id_from=333.999.0.0
 
 ##### **Important NOTES about clone my repository**
 > [https://github.com/xieguigang/xieguigang/blob/master/repo.md](https://github.com/xieguigang/xieguigang/blob/master/repo.md)
