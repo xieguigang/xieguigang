@@ -17,11 +17,16 @@ End Function
 - ⌛  I’m practicing Zen
 - 📫 How to reach me: [xieguigang.me](http://xieguigang.me/), [stack.xieguigang.me](https://stack.xieguigang.me/) and [linkedin](https://www.linkedin.com/in/xie-guigang-8573b1109/)
 
-[![](.github/zen_fxl1950.png)](http://www.fxl1950.com/shufa/details-250.html)
+<a href="http://www.fxl1950.com/shufa/details-250.html">
+<img src=".github/zen_fxl1950.png" width="50%" />
+</a>
 
 Recent video work on BILIBILI: 
 
-[![](.github/profile_videocard.png)](https://www.bilibili.com/video/BV1LB4y127rP?spm_id_from=333.999.0.0)
+<a href="https://www.bilibili.com/video/BV1LB4y127rP?spm_id_from=333.999.0.0">
+<img src=".github/QR_APMALDI-MSImaging.jpg" width="50%" />
+</a>
+
 > https://www.bilibili.com/video/BV1LB4y127rP?spm_id_from=333.999.0.0
 
 ##### **Important NOTES about clone my repository**
