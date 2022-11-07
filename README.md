@@ -17,6 +17,8 @@ End Function
 - ⌛  I’m practicing Zen
 - 📫 How to reach me: [xieguigang.me](http://xieguigang.me/), [stack.xieguigang.me](https://stack.xieguigang.me/) and [linkedin](https://www.linkedin.com/in/xie-guigang-8573b1109/)
 
+<img src=".github/github-user-contribution.svg" />
+
 <a href="http://www.fxl1950.com/shufa/details-250.html">
 <img src=".github/zen_fxl1950.png" width="50%" />
 </a>
