@@ -1,3 +1,5 @@
+<img src=".github/github-user-contribution.svg" />
+
 ### Hi there, 👋 You are my ![](https://profile-counter.glitch.me/xieguigang/count.svg)th visitor!
 
 <a href="http://www.fxl1950.com/shufa/details-250.html">
@@ -28,8 +30,7 @@ let xie.guigang = function() {
 - 🌱 I’m currently learning Machine Learning
 - ⌛  I’m practicing Zen
 - 📫 How to reach me: [xieguigang.me](http://xieguigang.me/), [stack.xieguigang.me](https://stack.xieguigang.me/) and [linkedin](https://www.linkedin.com/in/xie-guigang-8573b1109/)
-
-<img src=".github/github-user-contribution.svg" />
+- 😅 [**Important NOTES about clone my public repository**](https://github.com/xieguigang/xieguigang/blob/master/repo.md)
 
 Recent video work on BILIBILI: 
 
@@ -38,9 +39,6 @@ Recent video work on BILIBILI:
 </a>
 
 > https://www.bilibili.com/video/BV1LB4y127rP?spm_id_from=333.999.0.0
-
-##### **Important NOTES about clone my repository**
-> [https://github.com/xieguigang/xieguigang/blob/master/repo.md](https://github.com/xieguigang/xieguigang/blob/master/repo.md)
 
 ### 📈 Stats
 <div align="center">
