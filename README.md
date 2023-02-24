@@ -35,7 +35,7 @@ let xie.guigang = function() {
 Recent video work on BILIBILI: 
 
 <a href="https://www.bilibili.com/video/BV1LB4y127rP?spm_id_from=333.999.0.0">
-<img src=".github/QR_APMALDI-MSImaging.jpg" width="40%" />
+<img src=".github/QR_APMALDI-MSImaging.jpg" width="35%" />
 </a>
 
 > https://www.bilibili.com/video/BV1LB4y127rP?spm_id_from=333.999.0.0
