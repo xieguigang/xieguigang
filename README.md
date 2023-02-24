@@ -1,7 +1,7 @@
 ### Hi there, 👋 You are my ![](https://profile-counter.glitch.me/xieguigang/count.svg)th visitor!
 
 <a href="http://www.fxl1950.com/shufa/details-250.html">
-<img src=".github/zen_fxl1950.png" width="40%" align="right" border="1px" />
+<img src=".github/zen_fxl1950.png" width="30%" align="right" border="1px" />
 </a>
 
 ```vbnet
