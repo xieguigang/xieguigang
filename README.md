@@ -1,5 +1,9 @@
 ### Hi there, 👋 You are my ![](https://profile-counter.glitch.me/xieguigang/count.svg)th visitor!
 
+<a href="http://www.fxl1950.com/shufa/details-250.html">
+<img src=".github/zen_fxl1950.png" width="40%" align="right" border="1px" />
+</a>
+
 ```vbnet
 ' Working on Engineered bacteria CAD design on its genome from scratch. 
 ' Writing scientific computing software for Tianhe & Sunway TaihuLight 
@@ -7,6 +11,14 @@
 Public Function xieguigang() As String
     Return "Hello world!"
 End Function
+```
+
+```r
+# R.NET(R#) programming language designer and 
+# scientific computing runtime developer.
+let xie.guigang = function() {
+    return("Hello world!");
+}
 ```
 
 <!--
@@ -19,14 +31,10 @@ End Function
 
 <img src=".github/github-user-contribution.svg" />
 
-<a href="http://www.fxl1950.com/shufa/details-250.html">
-<img src=".github/zen_fxl1950.png" width="50%" />
-</a>
-
 Recent video work on BILIBILI: 
 
 <a href="https://www.bilibili.com/video/BV1LB4y127rP?spm_id_from=333.999.0.0">
-<img src=".github/QR_APMALDI-MSImaging.jpg" width="50%" />
+<img src=".github/QR_APMALDI-MSImaging.jpg" width="40%" />
 </a>
 
 > https://www.bilibili.com/video/BV1LB4y127rP?spm_id_from=333.999.0.0
