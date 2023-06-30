@@ -51,13 +51,6 @@ Recent video work on BILIBILI:
 <!-- https://github.com/vn7n24fzkq/github-profile-summary-cards -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xieguigang&theme=vue" />
 
-<center>
-<img width="450px" align="left" src="https://github-readme-stats.vercel.app/api?username=xieguigang&show_icons=true&hide_border=true&count_private=true&layout=compact" />
-<p style='float:right;'>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xieguigang&theme=vue" />
-</p>    
-</center>
-
 <!--
 <figure>
     <a href="https://wakatime.com/@xieguigang">
@@ -65,7 +58,13 @@ Recent video work on BILIBILI:
     </figure>
 -->
 
+<!--
 [![xieguigang's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xieguigang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
+|||
+|--|--|
+|![](metrics.additional.svg)|![](https://github-readme-stats.vercel.app/api?username=xieguigang&show_icons=true&hide_border=true&count_private=true&layout=compact)![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xieguigang&theme=vue)|
 
 <p>
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
