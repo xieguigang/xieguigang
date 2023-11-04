@@ -30,7 +30,7 @@ let xie.guigang = function() {
 - 🌱 I’m currently learning Machine Learning
 - ⌛  I’m practicing Zen
 - 📫 How to reach me: [xieguigang.me](http://xieguigang.me/), [stack.xieguigang.me](https://stack.xieguigang.me/) and [linkedin](https://www.linkedin.com/in/xie-guigang-8573b1109/)
-- 😅 [**Important NOTES about clone my public repository**](https://github.com/xieguigang/xieguigang/blob/master/repo.md)
+- 😅 <strong><span style="color: red;"><a href="https://github.com/xieguigang/xieguigang/blob/master/repo.md">**Important NOTES about clone my public repository**</a></span></strong>
 
 Recent video work on BILIBILI: 
 
