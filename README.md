@@ -66,8 +66,6 @@ Recent video work on BILIBILI:
 |--|--|
 |![](metrics.additional.svg)|![](https://github-readme-stats.vercel.app/api?username=xieguigang&show_icons=true&hide_border=true&count_private=true&layout=compact)![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xieguigang&theme=vue)|
 
-<p>
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <img title="GitHub README Streak" src="http://github-readme-streak-stats.herokuapp.com?user=xieguigang&background=white&border=lightgray&stroke=lightgray&ring=D6E9CA&fire=F5B1AA&currStreakNum=black&sideNums=black&currStreakLabel=black&sideLabels=black&dates=black" alt="GitHub README Streak" />
-  </a>
-</p>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=xieguigang&theme=vue)](https://git.io/streak-stats)
+
