@@ -34,14 +34,16 @@ let xie.guigang = function() {
 
 Recent video work on BILIBILI: 
 
-<a href="https://www.bilibili.com/video/BV1LB4y127rP?spm_id_from=333.999.0.0" style='float:left'>
-<img src=".github/QR_APMALDI-MSImaging.jpg" width="25%" />
+<a href="https://www.bilibili.com/video/BV1LB4y127rP?spm_id_from=333.999.0.0">
+<img src=".github/QR_APMALDI-MSImaging.jpg" width="25%" align="right" />
 </a>
-<a  style='float:right'>
-    <img src=".github/QR_MZKit-20240917.jpg" width="25%">
+<a>
+<img src=".github/QR_MZKit-20240917.jpg" width="25%" align="right" />
 </a>
 
 > https://www.bilibili.com/video/BV1LB4y127rP?spm_id_from=333.999.0.0
+
+<hr />
 
 ### 📈 Stats
 <div align="center">
