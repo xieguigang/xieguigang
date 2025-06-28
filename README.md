@@ -28,7 +28,7 @@ let xie.guigang = function() {
 - 🌱 I’m currently learning Machine Learning
 - ⌛  I’m practicing Zen
 - 📫 How to reach me: [xieguigang.me](http://xieguigang.me/), [stack.xieguigang.me](https://stack.xieguigang.me/) and [linkedin](https://www.linkedin.com/in/xie-guigang-8573b1109/)
-- 📫 E-Mail: [xieguigang@metabolomics.ac.cn](mailto://xieguigang@metabolomics.ac.cn), [xie.guigang@gcmodeller.org](mailto://xie.guigang@gcmodeller.org)
+- 📫 E-Mail: [xieguigang@metabolomics.ac.cn](mailto://xieguigang@metabolomics.ac.cn), [xie.guigang@gcmodeller.org](mailto://xie.guigang@gcmodeller.org), [i@xieguigang.me](mailto://i@xieguigang.me)
 - 😅 <strong><span style="color: red;"><a href="https://github.com/xieguigang/xieguigang/blob/master/repo.md">**Important NOTES about clone my public repository**</a></span></strong>
 
 <img src=".github/github-user-contribution.svg" />
