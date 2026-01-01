@@ -54,24 +54,18 @@ Recent video work on BILIBILI:
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-<!-- https://github.com/vn7n24fzkq/github-profile-summary-cards -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xieguigang&theme=vue" />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
-<!--
-<figure>
-    <a href="https://wakatime.com/@xieguigang">
-        <img width="400px;" src="https://wakatime.com/share/@xieguigang/5e0d3440-e829-4446-8425-43c457be44ce.svg" /></a>
-    </figure>
--->
+![](https://githubcard.com/xieguigang.svg?d=g1TO3MHe)
 
-<!--
-[![xieguigang's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xieguigang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
--->
-
-|||
+|  |  |
 |--|--|
-|![](metrics.additional.svg)|![](https://github-readme-stats.vercel.app/api?username=xieguigang&show_icons=true&hide_border=true&count_private=true&layout=compact)![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xieguigang&theme=vue)|
+|[![GitHub Streak](https://github-readme-streak-stats-vijaypur.vercel.app?user=xieguigang&theme=microsoft)](https://git.io/streak-stats)|<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xieguigang&theme=vue" />|
 
-
-[![GitHub Streak](https://github-readme-streak-stats-vijaypur.vercel.app?user=xieguigang&theme=microsoft)](https://git.io/streak-stats)
 
