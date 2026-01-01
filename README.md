@@ -73,5 +73,5 @@ Recent video work on BILIBILI:
 |![](metrics.additional.svg)|![](https://github-readme-stats.vercel.app/api?username=xieguigang&show_icons=true&hide_border=true&count_private=true&layout=compact)![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xieguigang&theme=vue)|
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=xieguigang&theme=vue)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-vijaypur.vercel.app?user=xieguigang&theme=microsoft)](https://git.io/streak-stats)
 
