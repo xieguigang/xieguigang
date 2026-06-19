@@ -38,13 +38,8 @@
                             <div class="entry">
                                 <span class="value">257</span>
                                 <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                5
-                                <div class="bottom">June</div>
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 6
+                                <div class="bottom">June</div>
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
@@ -102,9 +97,14 @@
                                 17
                             </div>
                             <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">258</span>
+                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 18
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                19
                             </div>
                         </div>
                     </section>
@@ -114,13 +114,8 @@
                             <div class="entry">
                                 <span class="value"></span>
                                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                                5
-                                <div class="bottom">June</div>
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 6
+                                <div class="bottom">June</div>
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
@@ -178,9 +173,14 @@
                                 17
                             </div>
                             <div class="entry">
+                                <span class="value">+1</span>
+                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                18
+                            </div>
+                            <div class="entry">
                                 <span class="value"></span>
                                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                                18
+                                19
                             </div>
                         </div>
                     </section>
@@ -201,14 +201,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="294.9594403857145" height="8" fill="#945db7"/>
-                    <rect mask="url(#languages-bar)" x="294.9594403857145" y="0" width="135.6696162596312" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="430.6290566453457" y="0" width="12.362961486961582" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="442.9920181323073" y="0" width="10.912255647492094" height="8" fill="#198CE7"/>
-                    <rect mask="url(#languages-bar)" x="453.9042737797994" y="0" width="1.9159850292383824" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="455.82025880903774" y="0" width="1.737945867772567" height="8" fill="#945db7"/>
-                    <rect mask="url(#languages-bar)" x="457.55820467681036" y="0" width="1.3816549759963563" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="458.9398596528067" y="0" width="1.0601403471933148" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="295.26860475818296" height="8" fill="#945db7"/>
+                    <rect mask="url(#languages-bar)" x="295.26860475818296" y="0" width="135.40391232521557" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="430.67251708339853" y="0" width="12.338749083339623" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="443.01126616673815" y="0" width="10.904945867804509" height="8" fill="#198CE7"/>
+                    <rect mask="url(#languages-bar)" x="453.91621203454264" y="0" width="1.9122326432982923" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="455.82844467784093" y="0" width="1.7345421649568618" height="8" fill="#945db7"/>
+                    <rect mask="url(#languages-bar)" x="457.5629868427978" y="0" width="1.3789490557376551" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="458.94193589853546" y="0" width="1.0580641014645515" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
